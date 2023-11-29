@@ -1,4 +1,6 @@
 # Linear Search and Binary search
+NAME: SHYAM S
+REF.NO: 23012478
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
